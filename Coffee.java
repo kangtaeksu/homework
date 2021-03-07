@@ -32,3 +32,6 @@ public class Coffee {
 		System.out.println(cate+"\t"+temp+"\t"+size+"\t"+money);
 	}
 }
+
+
+// test
